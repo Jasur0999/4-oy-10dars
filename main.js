@@ -197,9 +197,7 @@
 // ];
 // console.log(filteredProducts);
 
-
 //  16 - task  ////////////////
-
 
 //  17 - task  /////////////////
 
@@ -215,3 +213,13 @@
 //   console.log(olFalsy(input));
 
 
+//   18 - task  //////////////////
+
+// let a = +prompt("Son kiritinbg");
+// let n = +prompt("Darajani kiriting");
+
+// if (n > 0) {
+//     const s = a ** n;
+// }
+
+// console.log(s);
